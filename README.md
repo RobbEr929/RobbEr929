@@ -1,16 +1,17 @@
 ### Hi there 👋
+  
+### ✨ Special for u ✨
 
-<!--
-**RobbEr929/RobbEr929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭Some C++ or some PHP
 
-Here are some ideas to get you started:
+### 👯Some C/S or B/S
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱Currently learning ...... learning nothing!
+
+### 📡Reach me for here
+  
+#### [zc1142144939@vip.qq.com](mailto:zc1142144939@vip.qq.com)    
+
+
+[![RobbEr's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobbEr929&show_icons=true&count_private=true&theme=vue)](https://github.com/RobbEr929/github-readme-stats)
+
