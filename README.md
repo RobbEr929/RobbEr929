@@ -10,7 +10,7 @@
 
 ### 🌱Currently learning ...... learning nothing!
 
-### 📡Reach me for <a href="mailto:zc1142144939@vip.qq.com" target="_blank"><img src="https://github.com/RobbEr929/RobbEr929/blob/main/img/mail.png" width="24"/></a> or <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1142144939&website=www.oicqzone.com" target="_blank"><img src="https://github.com/RobbEr929/RobbEr929/blob/main/img/qq.png" width="24"/></a> or <a href="https://robber.ltd" target="_blank"><img src="https://github.com/RobbEr929/RobbEr929/blob/main/img/homepage.png" width="24"/></a>
+### 📡Reach me for <a href="mailto:zc1142144939@vip.qq.com" target="_blank"><img src="https://github.com/RobbEr929/RobbEr929/blob/main/img/mail.png" width="24"/></a> or <a href=" tencent://Message/?Uin=1142144939&websiteName=www.oicqzone.com&Menu=yes" target="_blank"><img src="https://github.com/RobbEr929/RobbEr929/blob/main/img/qq.png" width="24"/></a> or <a href="https://robber.ltd" target="_blank"><img src="https://github.com/RobbEr929/RobbEr929/blob/main/img/homepage.png" width="24"/></a>
 
 <br></br>                                                                                            
 
