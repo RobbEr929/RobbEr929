@@ -4,13 +4,15 @@
 
 ### ✨Special for u✨
 
-### 🔭Some C++ or some PHP
+### 🔭Some C++ and some PHP
 
-### 👯Some C/S or B/S
+### 👯Some C/S and B/S
 
-### 🌱Currently learning ...... learning nothing!
+### 🌱Currently... Look for new opportunities!
 
-### 📡Reach me for <a href="mailto:zc1142144939@vip.qq.com" target="_blank"><img src="https://github.com/RobbEr929/RobbEr929/blob/main/img/mail.png" width="24"/></a> or <a href=" tencent://Message/?Uin=1142144939&websiteName=www.oicqzone.com&Menu=yes" target="_blank"><img src="https://github.com/RobbEr929/RobbEr929/blob/main/img/qq.png" width="24"/></a> or <a href="https://robber.ltd" target="_blank"><img src="https://github.com/RobbEr929/RobbEr929/blob/main/img/homepage.png" width="24"/></a>
+### 📡Reach me for <a href="mailto:zc1142144939@vip.qq.com" target="_blank">Mail📧</a>
+
+### 📱Chat with me for QQ🐧 1142144939 or WeChat![](https://open.weixin.qq.com/zh_CN/htmledition/res/assets/res-design-download/icon16_wx_logo.png) ZHONGCHUN929
 
 <br></br>                                                                                            
 
